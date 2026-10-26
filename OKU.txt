@@ -1,0 +1,12 @@
+Among Us Anti-Troll (host-only)
+
+Ne yapar: mac basladiktan ilk 45 saniye acil toplanti butonu calismaz.
+Ceset raporuna dokunmaz. Meeting sonrasi cooldown oyunun kendi Emergency Cooldown ayaridir.
+
+Kullanim:
+1) run.bat'a cift tikla (ilk seferde build.bat ile otomatik derler).
+2) Konsolda "hazir: ReportDeadBody hooklandi" yazisini gor.
+3) Lobi kur, maci baslat. Olaylar antitroll_log.txt dosyasina yazilir.
+
+Sure ayari: antitroll.ini -> first_round_seconds (oyun acilmadan once degistir)
+Kodu degistirdiysen once Among Us'u kapat, sonra build.bat calistir.
